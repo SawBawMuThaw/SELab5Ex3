@@ -1,0 +1,9 @@
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.exe.config
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.exe
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\bin\Debug\WinFormsStudentApp.pdb
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.AssemblyReference.cache
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.Properties.Resources.resources
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.GenerateResource.cache
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.csproj.CoreCompileInputs.cache
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.exe
+D:\2nd year\Software Engineering\Labs\Lab05(colab)\WinFormsStudentApp\WinFormsStudentApp\obj\Debug\WinFormsStudentApp.pdb
